@@ -4,10 +4,16 @@
 # ins-tryout-repo - first steps with git on GitHub for people at INS
 
 <!-- badges: start -->
+
+![Lifecycle:Maturing](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)
 <!-- badges: end -->
 
 The goal of ins-tryout-repo is to provide a sample repository where
 people can take first steps with git on GitHub.
+
+*This public repo needs to be forked for modification. If you are
+collaborating on a private repo where you have direct access the fork is
+not necessary.*
 
 ## Prerequisites
 
