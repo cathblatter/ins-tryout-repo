@@ -19,11 +19,22 @@ not necessary.*
 
 For this to work I assume you have
 
-1.  git installed on your machine and
+1.  a basic understanding of what git & github are
 
-2.  set up a GitHub profile.
+2.  git installed on your machine and
 
-An excellent resource for setting it up is: <https://happygitwithr.com/>
+3.  set up a GitHub profile.
+
+An excellent resource for setting it up with R and RStudio is:
+
+-   <https://happygitwithr.com/>
+
+-   <https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/>
+
+Other resources I found worthwhile are:
+
+-   Presentation on the most important git terminology:
+    <https://speakerdeck.com/alicebartlett/git-for-humans?slide=19>
 
 # Workflow to try
 
