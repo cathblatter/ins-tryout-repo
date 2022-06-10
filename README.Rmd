@@ -46,7 +46,7 @@ Other resources I found worthwhile are:
   https://speakerdeck.com/alicebartlett/git-for-humans?slide=19 
 
 
-# Workflow to try 
+# Workflow to try out 
 
 1) Fork this repository (aka make a copy from the folder from my account to yours)  
 
@@ -56,6 +56,7 @@ Other resources I found worthwhile are:
 
 4) Start a pull request (PR) from your repository back to mine. Assign me as a reviewer 
 and I will have a look at them before merging back. 
+
 
 ## Why should I do this?
 

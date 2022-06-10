@@ -19,11 +19,11 @@ not necessary.*
 
 For this to work I assume you have
 
-1.  a basic understanding of what git & github are
+1)  a basic understanding of what git & github are
 
-2.  git installed on your machine and
+2)  git installed on your machine and
 
-3.  set up a GitHub profile.
+3)  set up a GitHub profile.
 
 An excellent resource for setting it up with R and RStudio is:
 
@@ -36,19 +36,19 @@ Other resources I found worthwhile are:
 -   Presentation on the most important git terminology:
     <https://speakerdeck.com/alicebartlett/git-for-humans?slide=19>
 
-# Workflow to try
+# Workflow to try out
 
-1.  Fork this repository (aka make a copy from the folder from my
+1)  Fork this repository (aka make a copy from the folder from my
     account to yours)
 
-2.  Clone it to your computer (aka download to your local machine), open
+2)  Clone it to your computer (aka download to your local machine), open
     the `.Rproj` file and e.g. add another R-Script with random content.
 
-3.  Commit your changes locally (aka tell git that changes occurred and
+3)  Commit your changes locally (aka tell git that changes occurred and
     you want to save them) and push (aka upload) back to GitHub, the
     remote repository.
 
-4.  Start a pull request (PR) from your repository back to mine. Assign
+4)  Start a pull request (PR) from your repository back to mine. Assign
     me as a reviewer and I will have a look at them before merging back.
 
 ## Why should I do this?
