@@ -44,12 +44,14 @@ Other resources I found worthwhile are:
 
   - Presentation on the most important git terminology: 
   https://speakerdeck.com/alicebartlett/git-for-humans?slide=19 
+  
+  - https://ndpsoftware.com/git-cheatsheet.html#loc=workspace;
 
 
 # Workflow to try out 
 
 1) Fork this repository (aka make a copy from the folder from my account to yours)  
-
+renv
 2) Clone it to your computer (aka download to your local machine), open the `.Rproj` file and e.g. add another R-Script with random content.  
 
 3) Commit your changes locally (aka tell git that changes occurred and you want to save them) and push (aka upload) back to GitHub, the remote repository.  

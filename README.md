@@ -36,6 +36,8 @@ Other resources I found worthwhile are:
 -   Presentation on the most important git terminology:
     <https://speakerdeck.com/alicebartlett/git-for-humans?slide=19>
 
+-   <https://ndpsoftware.com/git-cheatsheet.html#loc=workspace>;
+
 # Workflow to try out
 
 1)  Fork this repository (aka make a copy from the folder from my
